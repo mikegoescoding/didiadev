@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Heebo:400,700,800,900&display=swap");
+@import "./navbar.css";
+@import "./navpane.css";
+@import "./helper.css";
+@import "./flickity.css";
+@import "./print.css";
+@import "./photo.css";
+@import "./about.css";
+@import "./section.css";
+@import "./mediaquery.css";
